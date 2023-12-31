@@ -12,9 +12,17 @@
 
 </div>
 
+<div align="center">
 
+| Contents |
+| -------- |
+| [Single Responsibility Principle](https://github.com/devrath/SOLID-Principles/wiki/Single-Responsibility-Principle) |
+| [Open Closed principle](https://github.com/devrath/SOLID-Principles/wiki/Open-Closed-principle) |
+| [Liskov Substitution Principle](https://github.com/devrath/SOLID-Principles/wiki/Liskov-Substitution-Principle) |
+| [Interface segregation Principle](https://github.com/devrath/SOLID-Principles/wiki/Interface-segregation-Principle) |
+| [Dependency Inversion Principle](https://github.com/devrath/SOLID-Principles/wiki/Dependency-Inversion-Principle) |
 
-
+</div>
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
