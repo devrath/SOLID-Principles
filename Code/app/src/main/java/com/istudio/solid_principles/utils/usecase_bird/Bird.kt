@@ -1,4 +1,4 @@
-package com.istudio.solid_principles.utils.example_usecase_bird
+package com.istudio.solid_principles.utils.usecase_bird
 
 abstract class Bird(private val name : String) {
 

@@ -1,8 +1,8 @@
 package com.istudio.solid_principles.principles.open_closed
 
 import androidx.lifecycle.ViewModel
-import com.istudio.solid_principles.utils.example_usecase_payment.CreditCard
-import com.istudio.solid_principles.utils.example_usecase_payment.PaymentProcessor
+import com.istudio.solid_principles.utils.usecase_payment.CreditCard
+import com.istudio.solid_principles.utils.usecase_payment.PaymentProcessor
 import javax.inject.Inject
 
 class OpenClosedDemoVm  @Inject constructor( ) : ViewModel() {

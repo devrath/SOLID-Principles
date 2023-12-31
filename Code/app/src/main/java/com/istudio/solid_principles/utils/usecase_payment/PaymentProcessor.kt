@@ -1,4 +1,4 @@
-package com.istudio.solid_principles.utils.example_usecase_payment
+package com.istudio.solid_principles.utils.usecase_payment
 
 class PaymentProcessor {
 
