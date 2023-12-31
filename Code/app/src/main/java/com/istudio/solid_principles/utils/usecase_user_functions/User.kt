@@ -1,4 +1,4 @@
-package com.istudio.solid_principles.principles.single_responsibility.utils
+package com.istudio.solid_principles.utils.usecase_user_functions
 
 data class User(
     var username: String = "",
